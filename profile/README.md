@@ -16,4 +16,4 @@ Build ideas into modules and develop kits into Open Source.
 **Philosophy:** Small modules, big dreams  
 **Mindset:** Build in Public · Embrace Open Source · Keep it simple · Stay practical · Learn continuously  
 
-Open source by ❤️ **Dreamer:** [Huỳnh Nhân Quốc](https://github.com/huynhnhanquoc)
+Open source by ❤️ [Huỳnh Nhân Quốc](https://github.com/huynhnhanquoc)
